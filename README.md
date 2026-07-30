@@ -221,7 +221,7 @@ This notebook:
 
 ## Author
 
-**Giriraj Lakhani**
+**Rahul Garg**
 
 B.Tech, Mechanical Engineering  
 Indian Institute of Technology (BHU), Varanasi
